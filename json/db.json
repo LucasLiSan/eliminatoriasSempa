@@ -1,0 +1,450 @@
+{
+    "eliminatorias": [
+        {
+            "ano": 2025,
+            "participantes": [
+                {
+                    "rm": 2106,
+                    "nome": "ARHUNA MANOELA BENTO DOS SANTOS",
+                    "senha": "122442965",
+                    "nascimento": "28/03/2017",
+                    "turma": "3º Ano-A",
+                    "turno": "Manhã",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 2137,
+                    "nome": "ARTHUR GENTILE MORATTO",
+                    "senha": "120610955",
+                    "nascimento": "22/08/2016",
+                    "turma": "3º Ano-A",
+                    "turno": "Manhã",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 2232,
+                    "nome": "ARTHUR PINHEIRO CORREIA",
+                    "senha": "123400711",
+                    "nascimento": "27/05/2016",
+                    "turma": "3º Ano-A",
+                    "turno": "Manhã",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 2097,
+                    "nome": "BRAYAN GABRIEL SANTOS RODRIGUES DE OLIVEIRA",
+                    "senha": "120257570",
+                    "nascimento": "20/07/2016",
+                    "turma": "3º Ano-A",
+                    "turno": "Manhã",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 2098,
+                    "nome": "BRUNO VICENTE COSTA SILVA",
+                    "senha": "116394953",
+                    "nascimento": "22/08/2016",
+                    "turma": "3º Ano-A",
+                    "turno": "Manhã",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 2138,
+                    "nome": "CAROLINA TRIGO RODRIGUES FLORIANO",
+                    "senha": "121741009",
+                    "nascimento": "04/08/2016",
+                    "turma": "3º Ano-A",
+                    "turno": "Manhã",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 2207,
+                    "nome": "EMANUEL LUCAS PEDROSO",
+                    "senha": "120164606",
+                    "nascimento": "15/11/2016",
+                    "turma": "3º Ano-A",
+                    "turno": "Manhã",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 1911,
+                    "nome": "ALICE VALENTINA ASSUNÇÃO PONTES",
+                    "senha": "121109284",
+                    "nascimento": "03/01/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2113,
+                    "nome": "ANA BEATRYZ PONTES XAVIER",
+                    "senha": "114859704",
+                    "nascimento": "11/09/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - ARREMESSO DE PESO",
+                        "FUTSAL",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1536,
+                    "nome": "ANA SOPHIA MARTINS DE OLIVEIRA",
+                    "senha": "116472625",
+                    "nascimento": "17/02/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - SALTO EM DISTÂNCIA",
+                        "TÊNIS DE MESA",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2056,
+                    "nome": "ANALICE PEREIRA ALVES",
+                    "senha": "114872278",
+                    "nascimento": "19/10/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "QUEIMADA",
+                        "DAMAS"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1505,
+                    "nome": "ARTHUR CLAUDIO GONÇALVES",
+                    "senha": "116097480",
+                    "nascimento": "06/09/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 2612,
+                    "nome": "AYME KAROLINE ALMEIDA DA COSTA",
+                    "senha": "120928616",
+                    "nascimento": "22/03/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [],
+                    "resultados": []
+                },
+                {
+                    "rm": 1533,
+                    "nome": "BRAYAN CARDOSO DE MORAES",
+                    "senha": "115940124",
+                    "nascimento": "01/10/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "QUEIMADA",
+                        "XADREZ"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2076,
+                    "nome": "BRUNO PINHEIRO CORREIA",
+                    "senha": "120448692",
+                    "nascimento": "23/01/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2198,
+                    "nome": "DEIVID LUCAS GOMES MARTINS",
+                    "senha": "120565846",
+                    "nascimento": "29/10/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "ATLETISMO - SALTO EM DISTÂNCIA",
+                        "QUEIMADA",
+                        "FUTSAL"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2076,
+                    "nome": "DENNIS DE FREITAS CEZAR",
+                    "senha": "115248404",
+                    "nascimento": "22/04/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "FUTSAL"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2082,
+                    "nome": "GABRIEL FERREIRA DE FRANÇA",
+                    "senha": "115973103",
+                    "nascimento": "16/07/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - ARREMESSO DE PESO",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "ATLETISMO - SALTO EM DISTÂNCIA",
+                        "QUEIMADA",
+                        "DAMAS",
+                        "XADREZ",
+                        "FUTSAL"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2528,
+                    "nome": "GABRIEL MENDES TESTONI",
+                    "senha": "125159022",
+                    "nascimento": "01/04/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "DAMAS",
+                        "XADREZ",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2072,
+                    "nome": "HYAGO GABRIEL LUIZ GALVÃO",
+                    "senha": "115667297",
+                    "nascimento": "25/04/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "FUTSAL"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2290,
+                    "nome": "ISAQUE SILVA DE SOUSA",
+                    "senha": "120830042",
+                    "nascimento": "13/06/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2603,
+                    "nome": "JUAN LUIZ LIBÓRIO CAICEDO",
+                    "senha": "125687647",
+                    "nascimento": "27/07/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "DAMAS"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1912,
+                    "nome": "JÚLIA DOMINGUES VIEIRA",
+                    "senha": "121109339",
+                    "nascimento": "03/04/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - ARREMESSO DE PESO",
+                        "QUEIMADA",
+                        "TÊNIS DE MESA",
+                        "FUTSAL"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1513,
+                    "nome": "MARIA EDUARDA NUNES PONTES",
+                    "senha": "114403514",
+                    "nascimento": "04/08/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - ARREMESSO DE PESO",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "DAMAS",
+                        "FUTSAL",
+                        "QUEIMADA",
+                        "XADREZ"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2459,
+                    "nome": "MATHEUS HENRIQUE MUNIZ",
+                    "senha": "120714111",
+                    "nascimento": "27/05/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "FUTSAL",
+                        "QUEIMADA",
+                        "ATLETISMO - ARREMESSO DE PESO"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1526,
+                    "nome": "PEDRO HENRIQUE DE OLIVEIRA MUNIZ",
+                    "senha": "114611738",
+                    "nascimento": "08/11/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "ATLETISMO - SALTO EM DISTÂNCIA",
+                        "DAMAS",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1514,
+                    "nome": "PEDRO MARQUES ARAUJO",
+                    "senha": "116093121",
+                    "nascimento": "10/02/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "FUTSAL",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1535,
+                    "nome": "PIETRO EDUARDO NARDES MOREIRA",
+                    "senha": "116093925",
+                    "nascimento": "01/07/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "QUEIMADA",
+                        "XADREZ"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1534,
+                    "nome": "THAUANY VITORIA DA SILVA JORGE",
+                    "senha": "116092964",
+                    "nascimento": "05/09/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - ARREMESSO DE PESO",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "ATLETISMO - SALTO EM DISTÂNCIA",
+                        "DAMAS",
+                        "FUTSAL",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2623,
+                    "nome": "PEDRO HENRIQUE PEDROSO PIRES",
+                    "senha": "121240420",
+                    "nascimento": "26/01/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "DAMAS",
+                        "FUTSAL",
+                        "QUEIMADA",
+                        "XADREZ"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2628,
+                    "nome": "PEDRO HENRIQUE SANTOS JESUS ",
+                    "senha": "114875888",
+                    "nascimento": "11/06/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "DAMAS",
+                        "FUTSAL",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 1506,
+                    "nome": "ARTHUR LARA DOS SANTOS",
+                    "senha": "115774608",
+                    "nascimento": "23/01/2015",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "FUTSAL",
+                        "XADREZ"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2625,
+                    "nome": "KHEMILY YORRANY MARTINS PEDROSO ",
+                    "senha": "115916121",
+                    "nascimento": "15/05/2014",
+                    "turma": "5º Ano-A",
+                    "equipe": "Equipe 1",
+                    "modalidades": [
+                        "ATLETISMO - ARREMESSO DE PESO",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "ATLETISMO - SALTO EM DISTÂNCIA",
+                        "DAMAS",
+                        "QUEIMADA"
+                    ],
+                    "resultados": []
+                }
+            ]
+        }
+    ]
+}
