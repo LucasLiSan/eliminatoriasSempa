@@ -15,7 +15,7 @@ body {
   font-family: "Krub", sans-serif;
 }
 
-.card {
+.card, .login {
   position: absolute;
   margin: auto;
   top: 0;
@@ -29,7 +29,8 @@ body {
   background: #FF3366 ;
   overflow: hidden;
 }
-.card .ds-top {
+.card .ds-top,
+.login .ds-top {
   position: absolute;
   margin: auto;
   top: 0;
@@ -40,7 +41,8 @@ body {
   background: #612C8A;
   animation: dsTop 1.5s;
 }
-.card .avatar-holder {
+.card .avatar-holder,
+.login .avatar-holder {
   position: absolute;
   margin: auto;
   top: 30px;
@@ -54,13 +56,15 @@ body {
   overflow: hidden;
   animation: mvTop 1.5s;
 }
-.card .avatar-holder img {
+.card .avatar-holder img,
+.login .avatar-holder img {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
 }
-.card .name {
+.card .name,
+.login .name {
   position: absolute;
   margin: auto;
   top: -60px;
@@ -72,16 +76,47 @@ body {
   text-align: center;
   animation: fadeIn 2s ease-in;
 }
-.card .name a {
+.card .name a,
+.login .name a {
   color: white;
   text-decoration: none;
   font-weight: 700;
   font-size: 18px;
 }
-.card .name a:hover {
-  text-decoration: underline;
-  color: crimson;
+
+.login .name .inptPass {
+  width: 160px;
+  height: 20px;
+  margin: 15px 0;
+  text-align: center;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 1rem;
 }
+
+.login .name .inptSubmit {
+  width: 110px;
+  height: 30px;
+  border: solid 1px #F2E2D3;
+  border-radius: 1rem;
+  background: rgb(97 44 138);
+  color: #F2E2D3;
+  font-weight: bold;
+}
+
+.login .name .inptSubmit:hover {
+  background: #F4C301;
+  color: #000000;
+  font-weight: bold;
+}
+
+.login .name .inptSubmit:active {
+  border: solid 1px #F4C301;
+  background: #F2E2D3;
+  color: #000000;
+  font-weight: bold;
+}
+
 .card .name h6 {
   position: absolute;
   margin: auto;

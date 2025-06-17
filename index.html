@@ -10,13 +10,25 @@
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <link rel="stylesheet" href="css/style.css">
+            <script src="js/script.js"></script>
             <title>Eliminatórias</title>
         </head>
         <body>
-            <div class="card" id="containerParticipantes">
+            <div id="login" class="login">
                 <div class="ds-top"></div>
                 <div class="avatar-holder">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1820405/profile/profile-512.jpg?1533058950" alt="Albert Einstein">
+                    <img src="assets/profilePic.Standard.webp" alt="Não identificado">
+                </div>
+                <div class="name">
+                    <a>IDENTIFIQUE-SE</a>
+                    <input type="number" class="inptPass">
+                    <input type="submit" value="PROCURAR" class="inptSubmit">
+                </div>
+            </div>
+            <div class="card" id="containerParticipantes" style="display: none;">
+                <div class="ds-top"></div>
+                <div class="avatar-holder">
+                    <img src="assets/profilePic.Standard.webp" alt="Aluno">
                 </div>
                 <div class="name">
                     <a>ALICE VALENTINA ASSUNÇÃO PONTES</a>
@@ -53,5 +65,4 @@
                 </div>
             </div>
         </body>
-        <script src="js/script.js"></script>
     </html>
