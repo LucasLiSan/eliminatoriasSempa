@@ -1151,7 +1151,10 @@
                     "turma": "5º Ano-A",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - ARREMESSO DE PESO",
+                        "FUTSAL",
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 },
@@ -1163,7 +1166,7 @@
                     "turma": "5º Ano-A",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 },
@@ -1205,7 +1208,8 @@
                         "ATLETISMO - REVEZAMENTO 4x75",
                         "ATLETISMO - SALTO EM DISTÂNCIA",
                         "QUEIMADA",
-                        "FUTSAL"
+                        "FUTSAL",
+                        "XADREZ"
                     ],
                     "resultados": []
                 },
