@@ -241,7 +241,9 @@
                     "turma": "3º Ano-A",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "DAMAS",
+                        "FUTSAL",
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 },
