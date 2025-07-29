@@ -451,7 +451,7 @@
                     "turma": "4º Ano-A",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 },
@@ -476,7 +476,8 @@
                     "turma": "4º Ano-A",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "ATLETISMO - 50 METROS RASOS",
+                        "ATLETISMO - ARREMESSO DE PELOTA"
                     ],
                     "resultados": []
                 },
@@ -525,7 +526,7 @@
                     "turma": "4º Ano-A",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "NÃO QUIS PARTICIPAR"
                     ],
                     "resultados": []
                 },
@@ -616,7 +617,8 @@
                     "turma": "4º Ano-A",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "ATLETISMO - ARREMESSO DE PELOTA",
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 },
@@ -1785,6 +1787,20 @@
                     "equipe": "Não definido",
                     "modalidades": [
                         "NÃO QUIS PARTICIPAR"
+                    ],
+                    "resultados": []
+                },
+                {
+                    "rm": 2565,
+                    "nome": "LUIZ MIGUEL DIAS DE ANDRADE",
+                    "senha": "123405184",
+                    "nascimento": "22/02/2017",
+                    "turma": "3º Ano-A",
+                    "equipe": "Não definido",
+                    "modalidades": [
+                        "ATLETISMO - SALTO EM DISTÂNCIA",
+                        "FUTSAL",
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 }
