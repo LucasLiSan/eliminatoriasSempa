@@ -758,7 +758,7 @@
                     "turma": "4º Ano-B",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "FUTSAL"
                     ],
                     "resultados": []
                 },
@@ -932,7 +932,8 @@
                     "turma": "4º Ano-B",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "FUTSAL",
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 },
@@ -1574,7 +1575,8 @@
                     "turma": "5º Ano-B",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "FUTSAL",
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 },
@@ -1615,7 +1617,11 @@
                     "turma": "5º Ano-B",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "ATLETISMO - ARREMESSO DE PESO",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "FUTSAL",
+                        "QUEIMADA",
+                        "TÊNIS DE MESA"
                     ],
                     "resultados": []
                 },
@@ -1627,7 +1633,11 @@
                     "turma": "5º Ano-B",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "ATLETISMO - 75 METROS RASOS",
+                        "DAMAS",
+                        "FUTSAL",
+                        "QUEIMADA",
+                        "XADREZ"
                     ],
                     "resultados": []
                 },
@@ -1774,7 +1784,10 @@
                     "turma": "5º Ano-B",
                     "equipe": "Não definido",
                     "modalidades": [
-                        "NÃO SELECIONADO"
+                        "ATLETISMO - 75 METROS RASOS",
+                        "ATLETISMO - REVEZAMENTO 4x75",
+                        "FUTSAL",
+                        "QUEIMADA"
                     ],
                     "resultados": []
                 },
